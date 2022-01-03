@@ -10,9 +10,9 @@
    header{
        text-align: center;
        padding: 220px;
-       background-image: url(./muié\ feliz.jpg);
+       background-image: url(anders-jilden-AkUR27wtaxs-unsplash.jpg);
        background-size: cover;
-       color: red;
+       color: rgb(0, 0, 0);
    } 
 
    header h1{
@@ -40,7 +40,7 @@
    main h2{
        margin-bottom: 60px;
        font-size: 30px;
-       color: red;
+       color: black;
    }
    
    main div{
